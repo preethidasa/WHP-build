@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.motechproject.whp</groupId>
+  <artifactId>whp-validation</artifactId>
+  <version>0.1-SNAPSHOT</version>
+  <versioning>
+    <versions>
+      <version>0.1-SNAPSHOT</version>
+      <version>0.2-SNAPSHOT</version>
+      <version>0.1</version>
+      <version>0.3-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20120710043045</lastUpdated>
+  </versioning>
+</metadata>

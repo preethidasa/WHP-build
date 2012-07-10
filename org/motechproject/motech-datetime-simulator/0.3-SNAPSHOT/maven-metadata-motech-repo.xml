@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.motechproject</groupId>
+  <artifactId>motech-datetime-simulator</artifactId>
+  <version>0.3-SNAPSHOT</version>
+  <versioning>
+    <lastUpdated>20120708180010</lastUpdated>
+  </versioning>
+</metadata>

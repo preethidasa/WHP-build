@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.motechproject</groupId>
+  <artifactId>motech-bulk-export-import</artifactId>
+  <version>0.10-SNAPSHOT</version>
+  <versioning>
+    <snapshot />
+    <lastUpdated>20120601062551</lastUpdated>
+  </versioning>
+</metadata>

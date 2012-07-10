@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.motechproject</groupId>
+  <artifactId>case-common</artifactId>
+  <version>0.10-SNAPSHOT</version>
+  <versioning>
+    <snapshot />
+    <lastUpdated>20120601062534</lastUpdated>
+  </versioning>
+</metadata>

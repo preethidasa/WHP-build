@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.motechproject</groupId>
+  <artifactId>case-service</artifactId>
+  <version>0.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <buildNumber>6</buildNumber>
+    </snapshot>
+    <lastUpdated>20120528115757</lastUpdated>
+  </versioning>
+</metadata>

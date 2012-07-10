@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.motechproject.whp</groupId>
+  <artifactId>motech-whp</artifactId>
+  <version>0.3-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20120710042351</lastUpdated>
+  </versioning>
+</metadata>

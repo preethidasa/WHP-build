@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.motechproject</groupId>
+  <artifactId>motech</artifactId>
+  <version>0.10-SNAPSHOT</version>
+  <versioning>
+    <snapshot />
+    <lastUpdated>20120514050548</lastUpdated>
+  </versioning>
+</metadata>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.motechproject</groupId>
+  <artifactId>motech-kookoo-automation</artifactId>
+  <version>0.3-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <buildNumber>15</buildNumber>
+    </snapshot>
+    <lastUpdated>20120508071535</lastUpdated>
+  </versioning>
+</metadata>

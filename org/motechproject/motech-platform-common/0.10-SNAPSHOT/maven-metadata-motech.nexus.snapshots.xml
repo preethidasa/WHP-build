@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.motechproject</groupId>
+  <artifactId>motech-platform-common</artifactId>
+  <version>0.10-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <buildNumber>14</buildNumber>
+    </snapshot>
+    <lastUpdated>20120508070311</lastUpdated>
+  </versioning>
+</metadata>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.motechproject</groupId>
+  <artifactId>motech-cmslite-api</artifactId>
+  <version>0.9.1-SNAPSHOT</version>
+  <versioning>
+    <lastUpdated>20120506175803</lastUpdated>
+  </versioning>
+</metadata>
